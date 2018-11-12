@@ -1,0 +1,29 @@
+#box\ red{
+    background-color: red;
+    width: 210px;
+    padding-bottom: 30%;
+
+}
+
+#box\ blue{
+    background-color: blue;
+    width: 310px;
+    position: absolute;
+    margin-top: -189px;
+    margin-left: 9%;
+    padding-bottom: 17%;
+}
+h1{
+    font-family: "Gill Sans MT";
+    margin-left: 20%;
+}
+#box\ green{
+    background-color: #0bd60b;
+    border: black 2px solid;
+    width: 70%;
+    width: 210px;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -20%;
+    padding-bottom: 30%;
+}
